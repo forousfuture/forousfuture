@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @forousfuture
-- 👀 I’m interested in python
-- 🌱 I’m currently learning going
+hello there
 
 <!---
 forousfuture/forousfuture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
